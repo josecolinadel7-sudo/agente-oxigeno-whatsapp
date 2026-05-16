@@ -1,0 +1,7 @@
+node_modules/
+.env
+credentials.json
+credentials.json.json
+sheet-fallback.json
+npm-debug.log*
+.DS_Store
